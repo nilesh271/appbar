@@ -1,0 +1,8 @@
+{
+  "name": "sneakui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nilesh271/sneakui.git",
+  "author": "nilesh.kumrawat <nilesh.kumrawat@globant.com>",
+  "license": "MIT"
+}
